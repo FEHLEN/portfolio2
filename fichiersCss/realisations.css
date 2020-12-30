@@ -21,12 +21,11 @@ header{
 
 h1{
     margin:0px;
-    padding:0px;
-    font-size:2rem;
     text-align: left;
     margin-left: 21px;
     font-family: 'Eras Bold';
-    color:#777881;  
+    color:#777881;
+    padding-top: 20px;
 }
 h3{
     color:#777881;
